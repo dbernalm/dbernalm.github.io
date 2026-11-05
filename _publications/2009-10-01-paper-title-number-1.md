@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/bridge-walls
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026-09
+date: 2026-09-01
 venue: 'Journal of Geometry and Physics'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0393044026001324?via%3Dihub'
